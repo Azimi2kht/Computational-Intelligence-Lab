@@ -7,6 +7,8 @@
 <body>
 <h1>Computational Intelligence Lab</h1>
 <p>In this Computational Intelligence Lab, various sessions cover essential topics and practical applications in the field of artificial intelligence. Each session provides a hands-on experience to enhance the understanding and skills of participants in different areas of computational intelligence.</p>
+
+<p>I was the top grader student in this lab and the only one scoring 20 out of 20.</p>
 <h2>Session 1 - NumPy</h2>
 <p>This session introduces NumPy, a powerful Python library for numerical computations, providing an overview of its functionality and practical examples.</p>
 <h2>Session 2 - Regression and Gradient Descent</h2>
